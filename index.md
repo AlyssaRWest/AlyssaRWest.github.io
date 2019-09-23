@@ -24,7 +24,7 @@ int main(void)
 
 ## Hello World Repository
 
-/AlyssaRWest/hello-world#1
+https://github.com/AlyssaRWest/hello-world.git
 
 ### Images
 
