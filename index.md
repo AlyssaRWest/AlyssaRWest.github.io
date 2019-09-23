@@ -1,13 +1,15 @@
 ## Welcome to GitHub Pages
 
+> Always code as if the guy who ends up maintaining your code
+> will be a violent psychopath who knows where you live.
+> [- John Woods](https://www.goodreads.com/quotes/tag/programming)
 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hello World in C
+
 
 ```markdown
-Hello World in C
 
 #include<stdio.h> 
 int main(void)
