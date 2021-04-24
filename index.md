@@ -1,35 +1,16 @@
-## Welcome to GitHub Pages
-
-> Always code as if the guy who ends up maintaining your code
-> will be a violent psychopath who knows where you live.
-> [- John Woods](https://www.goodreads.com/quotes/tag/programming)
+## About Me!
 
 
 
 
+### Hiking Trails Website
 
-### Hello World in C
+This was a fun little website that I made for my web development course. It was originally published on Heroku until the database was taken down.
+
+[Hiking Trails Website](https://github.com/AlyssaRWest/HikingTrailsWebsite)
+
+## Images
 
 
-```markdown
-
-#include<stdio.h> 
-int main(void)
-{
-	printf("hello world\n"); 
-	return 0; 
-}
-
-```
-
-## Hello World Repository
-
-[Hello World Project Repository](https://github.com/AlyssaRWest/hello-world)
-
-### Images
-
-![A picture of some code](https://image.shutterstock.com/image-photo/software-developer-programming-code-abstract-260nw-577183882.jpg)
-
-[https://image.shutterstock.com/image-photo/software-developer-programming-code-abstract-260nw-577183882.jpg](https://image.shutterstock.com/image-photo/software-developer-programming-code-abstract-260nw-577183882.jpg)
 
 
